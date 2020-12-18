@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://www.saucedemo.com",
+  "cypressDashboardKey" :"5d798693-9c16-4f5d-b8db-2124e9654119", 
+  "env": {
+    "Username": "standard_user",
+    "Password": "secret_sauce"   
+  }
+}

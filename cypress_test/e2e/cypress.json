@@ -1,0 +1,16 @@
+{
+  "video": true,
+  "chromeWebSecurity": true,
+  "ignoreTestFiles": [
+    "*.js",
+    "*.md"
+  ],
+  "numTestsKeptInMemory": 1,
+  "projectId": "cbyit2",
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "test-results/test-output-[hash].xml"
+  },
+  "retries":2,
+  "env": {}
+}
