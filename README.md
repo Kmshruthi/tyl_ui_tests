@@ -10,14 +10,14 @@ Cypress is a JavaScript End to End Testing or UI testing framework. It makes end
 ## Package.json dependencies 
 
 ```
-cypress: Main framework which allows end to end testing.
+- cypress: Main framework which allows end to end testing.
 
-cypress-cucumber-preprocessor: Allows us to integrate gherkin cucumber syntax for easy business readability. Also, I have used the Page object model which makes it easy to understand.
+- cypress-cucumber-preprocessor: Allows us to integrate gherkin cucumber syntax for easy business readability. Also, I have used the Page object model which makes it easy to understand.
 
-cypress-testing-library: Custom commands which supports selecting elements in DOM by just using text. Eliminates CSS selector headaches.
+- cypress-testing-library: Custom commands which supports selecting elements in DOM by just using text. Eliminates CSS selector headaches.
 fs-extra: Used for reading JSON file for setting different configuration for different environments.
 
-cross-env: No need to explicitly match syntax for setting environment variables in windows or Linux or UNIX machines.
+- cross-env: No need to explicitly match syntax for setting environment variables in windows or Linux or UNIX machines.
 
 ```
 ## Initial Setup
