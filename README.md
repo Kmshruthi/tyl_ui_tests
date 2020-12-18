@@ -12,8 +12,11 @@ cross-env: No need to explicitly match syntax for setting environment variables 
 Assumption: We assume you have installed node.js along with npm in your machine
 
 Step 1: git clone  "https://github.com/Kmshruthi/tyl_ui_tests.git"
+
 Step 2: open project in editor – preferably visual studio code. Open terminal in visual studio code.
+
 Step 3: cd cypress_test/e2e. Always be in the e2e folder i.e `cd cypress_test/e2e` else when you execute one of the below commands - New cypress folder will be created and it wont work.
+
 Step 4: npm install
 
 ```
