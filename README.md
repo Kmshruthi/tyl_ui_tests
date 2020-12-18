@@ -23,7 +23,7 @@ fs-extra: Used for reading JSON file for setting different configuration for dif
 # Initial Setup
 
 ```
-Assumption: We assume you have installed node.js along with npm in your machine
+Assumption: I assume you have installed node.js along with npm in your machine. If not please do so before continuing with the below steps.
 
 Step 1: git clone  "https://github.com/Kmshruthi/tyl_ui_tests.git"
 
