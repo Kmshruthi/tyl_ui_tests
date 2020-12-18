@@ -1,6 +1,6 @@
 ```
 
-#About Cypress
+# About Cypress
 
 ```
 Cypress is a JavaScript End to End Testing or UI testing framework. It makes end to end testing, debugging, reporting excitingly easy. Cypress explains here https://www.cypress.io/how-it-works the details on different features it holds.
@@ -39,9 +39,9 @@ Step 4: npm install
 
 ```
 
-npx cypress open -e TEST_ENV="prod"
+- npx cypress open -e TEST_ENV="prod"
 or
-npm run test:prod
+- npm run test:prod
 
 Using npm run which opens a UI and you can click on the respective cypress feature file to run test
 
