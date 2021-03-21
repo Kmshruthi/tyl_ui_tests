@@ -12,7 +12,7 @@
     "url": "https://github.com/Kmshruthi/tyl_ui_tests.git"
   },
   "dependencies": {
-    "@testing-library/cypress": "7.0.3",
+    "@testing-library/cypress": "7.0.4",
     "cypress": "6.1.0",
     "cypress-cucumber-preprocessor": "4.0.0",
     "cypress-file-upload": "4.1.1",
